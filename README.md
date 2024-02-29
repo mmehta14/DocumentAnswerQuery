@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Set up your OpenAI API key by replacing 'key' with your actual API key.
 
 **Usage**
-Place your PDFs and images in the specified folder (C:/Users/MOHIT MEHTA/MF).
+Place your PDFs and images in the specified folder (C:/Users/Your-Name/MF).
 
 Run the Python script:
 
