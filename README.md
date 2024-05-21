@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Acknowledgments**
 OpenAI for providing access to the GPT-3 API
-PyPDF2, pytesseract, pandas, and other open-source libraries used in this project
+PyPDF2, pytesseract, pandas, and other open-source libraries used in this project.
